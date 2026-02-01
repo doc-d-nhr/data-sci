@@ -1,2 +1,3 @@
 # data-sci
-This is my Git Repositary 
+This is my Git Repository 
+author - d nihar
